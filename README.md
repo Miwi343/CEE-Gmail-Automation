@@ -66,3 +66,8 @@ git push origin feature-branch
 - **Alex de Roos** for initially developing the Gmail webscraper.
 - **Mihir Kulshreshtha** for creating this repository.
 - **Ken Stibler** for advising this project.
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT), please feel free to use this repo without restriction!
+
+
