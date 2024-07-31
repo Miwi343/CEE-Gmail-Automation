@@ -5,10 +5,15 @@ The Omnifo project is designed to help the [Center for Emerging Economies](https
 
 ## Objectives
 •	Automate the retrieval of tagged newsletters from a designated Gmail account.
+
 •	Extract and clean text to remove irrelevant parts like headers and footers.
+
 •	Use the OpenAI API to summarize and organize content by country and topic.
+
 •	Format the summarized content into a structured email template.
+
 •	Schedule the script to run automatically at specified intervals (e.g., every Friday).
+
 •	Implement an email sending function to deliver the final summaries to CEE employees
 
 ## Setup:
